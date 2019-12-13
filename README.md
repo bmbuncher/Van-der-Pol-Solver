@@ -13,14 +13,14 @@ The Van der Pol equation is a nonlinear second-order dynamical system with a uni
 
 
 
-## VDP_y_funcs.py: Functions used to solve, plot, and animate the solutions to the Van der Pol equation in the form of Eqn. 2
+-- VDP_y_funcs.py: Functions used to solve, plot, and animate the solutions to the Van der Pol equation in the form of Eqn. 2
 
-## VDP_funcs.py: Functions used to solve, plot, and animate the solutions to the Van der Pol equation in the form of Eqn. 3
+-- VDP_funcs.py: Functions used to solve, plot, and animate the solutions to the Van der Pol equation in the form of Eqn. 3
 
-### Both may be used to solve the Van der Pol equation in the form of Eqn. 1
+--- Both may be used to solve the Van der Pol equation in the form of Eqn. 1
 
-## VDP_z_vs_x.ipynb/VDP_z_vs_y.ipynb: Demonstrates the creation of a phase plot for the z and y equations, respectively.
-### These clearly show the existence and stability of the limit cycle
+-- VDP_z_vs_x.ipynb/VDP_z_vs_y.ipynb: Demonstrates the creation of a phase plot for the z and y equations, respectively.
+--- These clearly show the existence and stability of the limit cycle
 
-## VDP_z_vs_x_Animation.ipynb/VDP_z_vs_y_Animation.ipynb: Demonstrates the creation of a phase plot animation for the z and y equations, respectively.
-### WARNING: THESE ARE EXTREMELY SLOW!  I will be updating this repository with videos of the animations as soon as they finish rendering
+-- VDP_z_vs_x_Animation.ipynb/VDP_z_vs_y_Animation.ipynb: Demonstrates the creation of a phase plot animation for the z and y equations, respectively.
+WARNING: THESE ARE EXTREMELY SLOW!  I will be updating this repository with videos of the animations as soon as they finish rendering
