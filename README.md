@@ -24,3 +24,7 @@ The Van der Pol equation is a nonlinear second-order dynamical system with a uni
 
 -- VDP_z_vs_x_Animation.ipynb/VDP_z_vs_y_Animation.ipynb: Demonstrates the creation of a phase plot animation for the z and y equations, respectively.
 WARNING: THESE ARE EXTREMELY SLOW!  I will be updating this repository with videos of the animations as soon as they finish rendering
+
+-- Several static plots for various initial conditions are shown in the 'figures' directory
+
+-- Several animations for various initial conditions are shown in the 'figures' directory
